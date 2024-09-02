@@ -79,13 +79,13 @@ section{
 #joana{
     background-color: aqua;
     background-image: url(background001.jpg);
-    background-position: center right;
+    background-position: right right;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 #papel{
     background-image: url(background002.jpg);
-    background-position: center center;
+    background-position: center right;
     background-attachment: fixed;
     background-repeat: no-repeat;
     
